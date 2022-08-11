@@ -36,5 +36,5 @@ i had to combine the two datasets containing results for both surveys to answer 
 
 # Employee Dissatisfaction by Career Stage:
 
-![alt text](https://github.com/[eddie_lab]/[Reason_for_Resignation_Analysis]/blob/[main]/re1.jpg?raw=true)
+![alt text](http://url/to/re1.png)
 
