@@ -35,6 +35,5 @@ i had to combine the two datasets containing results for both surveys to answer 
 # Visualiztion
 
 # Employee Dissatisfaction by Career Stage:
-
-![alt text](http://url/to/re1.png)
+![ScreenShot](./re1.png)
 
