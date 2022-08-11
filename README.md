@@ -30,3 +30,11 @@ i had to combine the two datasets containing results for both surveys to answer 
    *  Another column was created to reflect this category.
    *  Missing values in the dissatisfied column were filled with False, since that was the most frequent value in that column.
 
+
+
+# Visualiztion
+
+# Employee Dissatisfaction by Career Stage:
+
+![alt text](https://github.com/[eddie_lab]/[Reason_for_Resignation_Analysis]/blob/[main]/re1.jpg?raw=true)
+
