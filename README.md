@@ -37,3 +37,31 @@ i had to combine the two datasets containing results for both surveys to answer 
 # Employee Dissatisfaction by Career Stage:
 ![ScreenShot](./re1.png)
 
+
+The graph above suggests that the longer an employee works, the more likely they are to resign citing dissatisfaction with something.
+
+- Employees with less than 3 years of work experience cite dissatisfaction only 30% of the time when resigning, while those who worked 4-7 years cited dissatisfaction 35% of the time.
+- In contrast, those with 7 years or more of work experience reported being dissatisfied about 50% of the time when they resigned.
+- 
+# Employee Dissatisfaction by Age
+
+   Age column was also cleaned and standardized into the same format using Regular expressions, and then categories were made to represent age, which were then used for the visualization.
+    
+    
+![ScreenShot](./test2png.png)
+
+In general, older employees seem to be more likely to resign reporting dissatisfaction. This trend is fairly consistent across all age groups, apart from the 26-30 and 31-35 age groups. This might be because older employees could have more accumulated grievances.
+
+A way to address this might be to ensure that older employees were kept satisfied with their working conditions. One reason an older employee might feel disgruntled is because the nature of their job might have changed significantly from what they were used to, and they find it harder to adapt. It might be worth looking into ways to ease this process.
+
+# Employee Dissatisfaction by Institute
+
+![ScreenShot](./re2.png)
+
+Visibly there appears to be a remarkable difference in the reported dissatisfaction rates of employees from the DETE and the TAFE firms.
+
+However,there is a very easy explanation for this discrepancy.
+Recall that there were several more columns from the dete survey forms that corresponded to employee dissatisfaction than in TAFE
+
+ Unequalness in how the survey responses were handled by the two institutes was one limitation of encountered in this project
+
